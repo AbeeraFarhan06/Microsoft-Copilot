@@ -58,6 +58,48 @@ const copilotData = [
     free: false,
   },
   {
+    title: "Write documents with confidence",
+    subtitle:
+      "Copilot in Word1 helps you create news drafts, rewrite and edit with ease, and quickly summarize complete documents",
+    pro:true,
+    free:false  
+  },
+  {
+    title: "Streamline your inbox",
+    subtitle:
+      "Copilot in Outlook1 helps you draft emails with the right tone, offers suggested replies, and summarizes long threads",
+    pro:true,
+    free:false  
+  },
+  {
+    title: "Elevate your presentations",
+    subtitle:
+      "Copilot in Powerpoint1 helps you generate outlines, design and organize slides, and summarize long presentations",
+    pro:true,
+    free:false  
+  },
+  {
+    title: "Compile data in less time",
+    subtitle:
+      "Copilot in Excel1 helps you generate formulas, analyze and summarize data, and add helpful visuals to spreadsheets",
+    pro:true,
+    free:false  
+  },
+  {
+    title: "Supercharge your notes",
+    subtitle:
+      "Copilot in OneNote1 helps you summarize your notes and create actionable to-do lists, and plans for events and celebrations",
+    pro:true,
+    free:false  
+  },
+  {
+    title: "Podcasts",
+    subtitle:
+      "Turn your curiosity and interests into personalized podcasts",
+    pro:true,
+    free:true  
+  },
+  {
     title: "Deep research",
     subtitle:
       "Ask detailed questions and receive comprehensive reports in minutes",
